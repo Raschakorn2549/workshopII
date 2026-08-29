@@ -20,4 +20,4 @@ jobs:
           username: ${{ secrets.SSH_USER }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           source: "."
-          target: "/home/tttest/domains/tttest.consolutechcloud.com/public_html"
+          target: "/home/guest20/domains/guest20.consolutechcloud.com/public_html"
